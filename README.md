@@ -1,3 +1,5 @@
+Change language: [🇬🇧 English Version](README_EN.md)
+
 # Линас Элькснис | Product Engineer & ИТ-Архитектор 🚀
 
 [🌐 Персональный сайт (heylinas.com)](https://heylinas.com) | [💬 Написать в Telegram](https://t.me/EridanEdrian) 
